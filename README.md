@@ -63,7 +63,7 @@
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 -->
 
@@ -108,7 +108,6 @@ This is an example of how to list things you need to use the software and how to
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 -->
 
@@ -119,7 +118,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
  -->
 
@@ -133,7 +131,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
  -->
 
@@ -151,7 +148,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 -->
 
@@ -170,9 +166,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Felipe Andriotti - felipeaandriotti@gmail.com
 
 Project Link: [https://github.com/FelipeAndriotti/vai-dar-namoro-midi](https://github.com/FelipeAndriotti/vai-dar-namoro-midi)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
