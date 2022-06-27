@@ -74,9 +74,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * CSS
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED 
 ## Getting Started
@@ -155,8 +152,6 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
