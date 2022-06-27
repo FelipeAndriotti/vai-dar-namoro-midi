@@ -18,7 +18,7 @@
     <a href="https://github.com/FelipeAndriotti/vai-dar-namoro-midi/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/FelipeAndriotti/vai-dar-namoro-midi/">View Demo</a>
+    <a href="https://felipeandriotti.github.io/vai-dar-namoro-midi/">View Demo</a>
     ·
     <a href="https://github.com/FelipeAndriotti/vai-dar-namoro-midi/issues">Report Bug</a>
     ·
