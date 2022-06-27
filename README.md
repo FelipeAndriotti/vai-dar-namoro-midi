@@ -13,7 +13,7 @@
 <h3 align="center">Vai Dar Namoro</h3>
 
   <p align="center">
-    O projeto foi inspirado após um curso da Alura onde criavamos um MIDI, basicamente para uma bateria. Mas tive a ideia de alterar tudo e transformar em um MIDI do programa Vai Dar Namoro.
+    O projeto foi inspirado após um curso da Alura onde criavamos um MIDI, com instrumental de bateria. Mas tive a ideia de alterar tudo e transformar em um MIDI do programa Vai Dar Namoro.
     <br />
     <a href="https://github.com/FelipeAndriotti/vai-dar-namoro-midi/"><strong>Explore the docs »</strong></a>
     <br />
