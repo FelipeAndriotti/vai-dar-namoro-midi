@@ -10,10 +10,10 @@
 
 
 
-<h3 align="center">Vai Dar Namoro</h3>
+<h3 align="center">Vai Dar Namoro MIDI</h3>
 
   <p align="center">
-    O projeto foi inspirado após um curso da Alura onde criavamos um MIDI, com instrumental de bateria. Mas tive a ideia de alterar tudo e transformar em um MIDI do programa Vai Dar Namoro.
+    The project was inspired after an Alura course where we created a MIDI, with drum instruments. But I had the idea of changing everything and transforming it into a MIDI from the program Vai Dar Namoro.
     <br />
     <a href="https://github.com/FelipeAndriotti/vai-dar-namoro-midi/"><strong>Explore the docs »</strong></a>
     <br />
